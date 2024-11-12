@@ -10,5 +10,5 @@ After editing the data, you need to manually click the save button in the toolba
 After creating the widget, the default size may not be the most comfortable to use, and you may need to manually adjust it.
 
 ## Version
-v0.1.x
+v0.0.1
 - Basic functionality
