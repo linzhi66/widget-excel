@@ -1,8 +1,8 @@
 {
     "name": "widget-excel",
-    "author": "mingyuan",
-    "url": "https://github.com/dicarne/widget-excel",
-    "version": "0.1.0",
+    "author": "linzhi",
+    "url": "https://github.com/linzhi66/widget-excel",
+    "version": "1.0.0",
     "minAppVersion": "2.8.8",
     "displayName": {
         "default": "Excel 挂件",
@@ -15,12 +15,9 @@
         "en_US": "This is an Excel widget embedded in the document area, designed to handle slightly complex table data storage."
     },
     "readme": {
-        "default": "README_zh_CN.md",
+        "default": "README.md",
         "zh_CN": "README_zh_CN.md"
     },
     "funding": {
-        "custom": [
-            "https://txc.qq.com/products/662653"
-        ]
     }
 }
