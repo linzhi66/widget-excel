@@ -2,7 +2,7 @@
     "name": "widget-excel",
     "author": "linzhi",
     "url": "https://github.com/linzhi66/widget-excel",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "minAppVersion": "2.8.8",
     "displayName": {
         "default": "Excel 挂件",
