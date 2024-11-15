@@ -1,9 +1,9 @@
 {
     "name": "widget-excel",
-    "author": "linzhi",
+    "author": "linzhi66",
     "url": "https://github.com/linzhi66/widget-excel",
-    "version": "0.0.1",
-    "minAppVersion": "2.8.8",
+    "version": "0.0.2",
+    "minAppVersion": "3.1.6",
     "displayName": {
         "default": "Excel 挂件",
         "zh_CN": "Excel 挂件",
@@ -18,6 +18,5 @@
         "default": "README.md",
         "zh_CN": "README_zh_CN.md"
     },
-    "funding": {
-    }
+    "funding": {}
 }
